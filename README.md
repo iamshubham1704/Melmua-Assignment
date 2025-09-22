@@ -404,6 +404,4 @@ MIT License - see LICENSE file for details.
 For issues and questions:
 - Create an issue on GitHub
 - Check the troubleshooting section
-- Review the API documentation#   M e l m u a - A s s i g n m e n t  
- #   M e l m u a - A s s i g n m e n t  
- 
+- Review the API documentation#
